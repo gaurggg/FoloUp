@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(echo:*)",
+      "Bash(cd:*)",
+      "Bash(yarn:*)",
+      "Bash(which:*)",
+      "Bash(npm:*)",
+      "Bash(npm install:*)",
+      "Bash(ping:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
